@@ -1,5 +1,5 @@
 h1 {
 
-    font-size: 600px;
+    font-size: 15px;
 
 }
